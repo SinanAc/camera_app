@@ -1,3 +1,5 @@
+// ignore_for_file: invalid_use_of_protected_member, invalid_use_of_visible_for_testing_member
+
 import 'dart:io';
 import 'package:camera_app/screens/image_screen.dart';
 import 'package:flutter/material.dart';
